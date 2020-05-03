@@ -1,0 +1,19 @@
+{
+  "name": "anker456/simple-pdo",
+  "description": "A simple Pdo library for micro PHP framework",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "anker456",
+      "email": "2048528830@qq.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Anker456\\PDO\\": "src/"
+    }
+  }
+}
